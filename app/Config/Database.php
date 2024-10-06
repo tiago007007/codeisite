@@ -26,7 +26,7 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => '192.168.68.58',
+        'hostname'     => 'localhost',
         'username'     => 'tiago007',
         'password'     => 'Zero07007',
         'database'     => 'crudPHPc',
